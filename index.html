@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ja"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Steam新作棚｜日本語対応ゲームの発売日・価格一覧</title>
+<meta name="description" content="Steamで発売された日本語対応ゲームを、ジャンルやタイトルで探して日本円の価格・発売日で並べ替え。">
+<link rel="stylesheet" href="./style.css"><script type="module" src="./app.mjs"></script>
+</head><body>
+<header class="wrap"><a href="./">Steam新作棚</a><a href="#catalog">ゲームを探す ↓</a></header>
+<main class="wrap"><section class="hero">
+<p class="kicker">PCゲーム / 日本語対応</p>
+<h1>Steamの新作を、<br>遊びたい条件で探す。</h1>
+<p>発売済みのゲームを、ジャンル・タイトル・日本円の価格から探せます。</p>
+</section>
+<section id="catalog" aria-labelledby="catalog-title"><h2 id="catalog-title">ゲーム一覧</h2>
+<div class="filters">
+<label>タイトル検索<input id="query" type="search" placeholder="ゲーム名で検索"></label>
+<label>ジャンル<select id="genre"><option value="">すべて</option></select></label>
+<label>並べ替え<select id="sort"><option value="latest">発売日が新しい順</option><option value="price-up">価格が安い順</option><option value="price-down">価格が高い順</option></select></label>
+</div>
+<p id="summary" role="status">ゲームを読み込み中…</p>
+<div id="games" class="games"></div>
+<button id="more" type="button" hidden>さらに表示</button>
+<noscript><p>一覧にはJavaScriptが必要です。<a href="https://store.steampowered.com/search/?sort_by=Released_DESC&amp;category1=998&amp;supportedlang=japanese&amp;l=japanese">Steam公式検索を開く</a></p></noscript>
+</section></main>
+<footer class="wrap">非公式のゲーム一覧です。日本語対応の内訳と現在の価格はSteamの商品ページで確認できます。ジャンルはストアタグに基づきます。</footer>
+</body></html>
