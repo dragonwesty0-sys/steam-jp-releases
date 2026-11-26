@@ -1,5 +1,5 @@
 const get = id => document.getElementById(id);
-const filters = ['genre', 'sort'].map(get);
+const filters = ['query', 'year', 'genre', 'sort'].map(get);
 const money = new Intl.NumberFormat('ja-JP', {style: 'currency', currency: 'JPY'});
 const pageSize = 24;
 let limit = pageSize;
@@ -30,14 +30,23 @@ function gameCard(game) {
   const price = game.price === null ? '価格未確認' : game.price === 0 ? '無料' : money.format(game.price);
   content.append(node('h3', game.title), tags, node('p', '発売 ' + game.date, 'meta'),
     node('p', price, 'price'), node('p', '価格確認日 ' + game.checked, 'meta'), link);
+  const peak = Number.isInteger(game.all_time_peak) ? game.all_time_peak.toLocaleString('ja-JP') + '人' : '未取得';
+  const chart = node('a', 'Steam Chartsで確認 ↗');
+  chart.href = 'https://steamcharts.com/app/' + game.id;
+  chart.setAttribute('aria-label', game.title + 'の最高同接をSteam Chartsで確認');
+  content.insertBefore(node('p', '最高同接（観測値） ' + peak, 'meta'), link);
+  content.append(chart);
   card.append(cover, content);
   return card;
 }
 
 function render() {
-  const [genre, sort] = filters.map(control => control.value);
+  const [query, year, genre, sort] = filters.map(control => control.value);
+  const needle = query.normalize('NFKC').trim().toLocaleLowerCase('ja');
   const games = catalog.games.filter(game =>
-    !genre || (genre === 'その他' ? !game.genres.length : game.genres.includes(genre)));
+    (!year || game.date.startsWith(year + '-')) &&
+    (!genre || (genre === 'その他' ? !game.genres.length : game.genres.includes(genre))) &&
+    game.title.normalize('NFKC').toLocaleLowerCase('ja').includes(needle));
   if (sort !== 'latest') {
     const direction = sort === 'price-up' ? 1 : -1;
     games.sort((a, b) => (a.price === null) - (b.price === null) ||
@@ -55,6 +64,8 @@ try {
   catalog = await response.json();
   const genres = [...new Set(catalog.games.flatMap(game => game.genres.length ? game.genres : ['その他']))]
     .sort((a, b) => a.localeCompare(b, 'ja'));
+  const years = [...new Set(catalog.games.map(game => game.date.slice(0, 4)))].sort().reverse();
+  get('year').append(...years.map(year => new Option(year, year)));
   get('genre').append(...genres.map(genre => new Option(genre, genre)));
   filters.forEach(control => control.addEventListener('input', () => { limit = pageSize; render(); }));
   get('more').addEventListener('click', () => {

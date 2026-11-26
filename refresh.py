@@ -1,6 +1,8 @@
 """Refresh the catalog from the public Japanese-language Steam search."""
 import json
 import re
+import time
+from urllib.error import HTTPError, URLError
 from datetime import datetime, timezone, timedelta
 from html.parser import HTMLParser
 from pathlib import Path
@@ -83,26 +85,80 @@ def parse(html, now):
                'checked': now.astimezone(JST).date().isoformat()}
 
 
-def refresh(html):
-    now = datetime.now(timezone.utc)
-    fresh = list(parse(html, now))
+PEAK = re.compile(r'<span class="num">([0-9,]+)</span>\s*<br\s*/?>\s*all-time peak', re.I)
+RESULT_COUNT = re.compile(r'表示中の検索結果：[\d,]+\s*-\s*[\d,]+\s*/\s*([\d,]+)')
+
+
+def read(url):
+    with urlopen(Request(url, headers={'Accept-Language': 'ja'}), timeout=10) as response:
+        return response.read().decode('utf-8')
+
+
+def sync(saved, now, pages=None):
+    newest = read(URL)
+    fresh = list(parse(newest, now))
+    total = RESULT_COUNT.search(newest)
     if not fresh or not any(game['price'] is not None for game in fresh):
         raise RuntimeError('Unexpected Steam response; catalog unchanged.')
-    saved = json.loads(CATALOG.read_text()) if CATALOG.exists() else {'games': []}
+    cursor = saved.get('backfill_next_page', 3)
+    if pages is None and cursor is not None:
+        last_page = (int(total[1].replace(',', '')) + 24) // 25 if total else None
+        if last_page is not None:
+            for page in range(cursor, min(cursor + 6, last_page + 1)):
+                try:
+                    historical = list(parse(read(URL + f'&page={page}'), now))
+                except (URLError, TimeoutError) as error:
+                    print(f'Steam page {page}: {error}')
+                    break
+                if not historical:
+                    print(f'Steam page {page}: no verified entries; retaining cursor.')
+                    break
+                fresh.extend(historical)
+                cursor = page + 1
+                time.sleep(1)
+            if cursor > last_page:
+                cursor = None
+    elif pages is not None:
+        for page in pages:
+            try:
+                fresh.extend(parse(read(URL + f'&page={page}'), now))
+            except (URLError, TimeoutError) as error:
+                print(f'Steam page {page}: {error}')
+            time.sleep(1)
     games = {game['id']: game for game in saved['games']}
-    games.update((game['id'], game) for game in fresh)
+    for game in fresh:
+        games[game['id']] = {**games.get(game['id'], {}), **game}
+
+    candidates = sorted(games.values(), key=lambda game: (game.get('peak_checked', ''), game['date'], int(game['id'])))
+    for game in candidates[:6]:
+        try:
+            match = PEAK.search(read('https://steamcharts.com/app/' + game['id']))
+        except HTTPError as error:
+            if error.code != 404:
+                print(f'Steam Charts: {error}; ending this update batch.')
+                break
+            match = None
+        except (URLError, TimeoutError) as error:
+            print(f'Steam Charts: {error}; ending this update batch.')
+            break
+        game['peak_checked'] = now.isoformat(timespec='seconds')
+        if match:
+            game['all_time_peak'] = int(match[1].replace(',', ''))
+        time.sleep(1)
+
     result = sorted(games.values(), key=lambda game: (game['date'], int(game['id'])), reverse=True)
-    payload = {'updated': now.astimezone(JST).date().isoformat(), 'games': result}
-    temp = CATALOG.with_suffix('.tmp')
-    temp.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-    temp.replace(CATALOG)
-    print(f'{len(fresh)} refreshed, {len(result)} total')
+    return {'updated': now.astimezone(JST).date().isoformat(), 'backfill_next_page': cursor, 'games': result}
 
 
 if __name__ == '__main__':
-    import sys
-    if len(sys.argv) == 2:
-        refresh(Path(sys.argv[1]).read_text(encoding='utf-8'))
-    else:
-        with urlopen(Request(URL, headers={'Accept-Language': 'ja'}), timeout=30) as response:
-            refresh(response.read().decode('utf-8'))
+    import argparse
+    cli = argparse.ArgumentParser()
+    cli.add_argument('--pages', type=int, nargs='+', help='Optional historical search pages to sample without moving the scheduled cursor')
+    args = cli.parse_args()
+    now = datetime.now(timezone.utc)
+    previous = json.loads(CATALOG.read_text(encoding='utf-8'))
+    payload = sync(previous, now, args.pages)
+    temp = CATALOG.with_suffix('.tmp')
+    temp.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    temp.replace(CATALOG)
+    print(f"{len(payload['games'])} total, next historical page: {payload['backfill_next_page']}")

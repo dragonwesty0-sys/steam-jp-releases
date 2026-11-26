@@ -10,10 +10,12 @@
 <main class="wrap"><section class="hero">
 <p class="kicker">PCゲーム / 日本語対応</p>
 <h1>Steamの新作を、<br>遊びたい条件で探す。</h1>
-<p>発売済みのゲームを、ジャンルで絞り込み、発売日や日本円の価格で並べ替えられます。</p>
+<p>発売済みのゲームを、タイトル・発売年・ジャンルで探して、日本円の価格や発売日で並べ替えられます。</p>
 </section>
 <section id="catalog" aria-labelledby="catalog-title"><h2 id="catalog-title">ゲーム一覧</h2>
 <div class="filters">
+<label>タイトル検索<input id="query" type="search" placeholder="ゲーム名で検索"></label>
+<label>発売年<select id="year"><option value="">すべて</option></select></label>
 <label>ジャンル<select id="genre"><option value="">すべて</option></select></label>
 <label>並べ替え<select id="sort"><option value="latest">発売日が新しい順</option><option value="price-up">価格が安い順</option><option value="price-down">価格が高い順</option></select></label>
 </div>
@@ -22,5 +24,5 @@
 <button id="more" type="button" hidden>さらに表示</button>
 <noscript><p>一覧にはJavaScriptが必要です。<a href="https://store.steampowered.com/search/?sort_by=Released_DESC&amp;category1=998&amp;supportedlang=japanese&amp;l=japanese">Steam公式検索を開く</a></p></noscript>
 </section></main>
-<footer class="wrap">非公式のゲーム一覧です。日本語対応の内訳と現在の価格はSteamの商品ページで確認できます。ジャンルはストアタグに基づきます。 <a href="./privacy">プライバシー</a></footer>
+<footer class="wrap">非公式のゲーム一覧です。日本語対応の内訳と現在の価格はSteamの商品ページで確認できます。ジャンルはストアタグに基づきます。最高同接は Steam Charts が観測した期間の最高値です。 <a href="./privacy">プライバシー</a></footer>
 </body></html>
