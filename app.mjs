@@ -31,9 +31,9 @@ function gameCard(game) {
   content.append(node('h3', game.title), tags, node('p', '発売 ' + game.date, 'meta'),
     node('p', price, 'price'), node('p', '価格確認日 ' + game.checked, 'meta'), link);
   const peak = Number.isInteger(game.all_time_peak) ? game.all_time_peak.toLocaleString('ja-JP') + '人' : '未取得';
-  const chart = node('a', 'Steam Chartsで確認 ↗');
-  chart.href = 'https://steamcharts.com/app/' + game.id;
-  chart.setAttribute('aria-label', game.title + 'の最高同接をSteam Chartsで確認');
+  const chart = node('a', 'SteamDBで履歴を確認 ↗');
+  chart.href = 'https://steamdb.info/app/' + game.id + '/charts/';
+  chart.setAttribute('aria-label', game.title + 'の同接履歴をSteamDBで確認');
   content.insertBefore(node('p', '最高同接（観測値） ' + peak, 'meta'), link);
   content.append(chart);
   card.append(cover, content);
