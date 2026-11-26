@@ -2,7 +2,7 @@
 import json
 import re
 import time
-from urllib.error import HTTPError, URLError
+from urllib.error import URLError
 from datetime import datetime, timezone, timedelta
 from html.parser import HTMLParser
 from pathlib import Path
@@ -85,7 +85,6 @@ def parse(html, now):
                'checked': now.astimezone(JST).date().isoformat()}
 
 
-PEAK = re.compile(r'<span class="num">([0-9,]+)</span>\s*<br\s*/?>\s*all-time peak', re.I)
 RESULT_COUNT = re.compile(r'表示中の検索結果：[\d,]+\s*-\s*[\d,]+\s*/\s*([\d,]+)')
 
 
@@ -128,23 +127,6 @@ def sync(saved, now, pages=None):
     games = {game['id']: game for game in saved['games']}
     for game in fresh:
         games[game['id']] = {**games.get(game['id'], {}), **game}
-
-    candidates = sorted(games.values(), key=lambda game: (game.get('peak_checked', ''), game['date'], int(game['id'])))
-    for game in candidates[:6]:
-        try:
-            match = PEAK.search(read('https://steamcharts.com/app/' + game['id']))
-        except HTTPError as error:
-            if error.code != 404:
-                print(f'Steam Charts: {error}; ending this update batch.')
-                break
-            match = None
-        except (URLError, TimeoutError) as error:
-            print(f'Steam Charts: {error}; ending this update batch.')
-            break
-        game['peak_checked'] = now.isoformat(timespec='seconds')
-        if match:
-            game['all_time_peak'] = int(match[1].replace(',', ''))
-        time.sleep(1)
 
     result = sorted(games.values(), key=lambda game: (game['date'], int(game['id'])), reverse=True)
     return {'updated': now.astimezone(JST).date().isoformat(), 'backfill_next_page': cursor, 'games': result}
