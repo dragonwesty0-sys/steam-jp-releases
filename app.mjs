@@ -1,5 +1,5 @@
 const get = id => document.getElementById(id);
-const filters = ['query', 'genre', 'sort'].map(get);
+const filters = ['genre', 'sort'].map(get);
 const money = new Intl.NumberFormat('ja-JP', {style: 'currency', currency: 'JPY'});
 const pageSize = 24;
 let limit = pageSize;
@@ -35,11 +35,9 @@ function gameCard(game) {
 }
 
 function render() {
-  const [query, genre, sort] = filters.map(control => control.value);
-  const needle = query.normalize('NFKC').trim().toLocaleLowerCase('ja');
+  const [genre, sort] = filters.map(control => control.value);
   const games = catalog.games.filter(game =>
-    (!genre || (genre === 'その他' ? !game.genres.length : game.genres.includes(genre))) &&
-    game.title.normalize('NFKC').toLocaleLowerCase('ja').includes(needle));
+    !genre || (genre === 'その他' ? !game.genres.length : game.genres.includes(genre)));
   if (sort !== 'latest') {
     const direction = sort === 'price-up' ? 1 : -1;
     games.sort((a, b) => (a.price === null) - (b.price === null) ||
@@ -57,7 +55,7 @@ try {
   catalog = await response.json();
   const genres = [...new Set(catalog.games.flatMap(game => game.genres.length ? game.genres : ['その他']))]
     .sort((a, b) => a.localeCompare(b, 'ja'));
-  filters[1].append(...genres.map(genre => new Option(genre, genre)));
+  get('genre').append(...genres.map(genre => new Option(genre, genre)));
   filters.forEach(control => control.addEventListener('input', () => { limit = pageSize; render(); }));
   get('more').addEventListener('click', () => {
     const firstNew = limit;
