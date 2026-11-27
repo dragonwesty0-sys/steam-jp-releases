@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-27",
-  "backfill_next_page": 141,
+  "backfill_next_page": 147,
   "games": [
     {
       "id": "5595020",
@@ -8,7 +8,7 @@
         "シミュレーション",
         "カジュアル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5595020/34cf251f72e93f3cdf203c5d97d3efa95e50ca14/capsule_231x87_japanese.jpg?t=1795770990",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5595020/34cf251f72e93f3cdf203c5d97d3efa95e50ca14/capsule_231x87_japanese.jpg?t=1795770990",
       "title": "鍛冶屋は今日も忙しい",
       "date": "2026-11-27",
       "price": 480,
@@ -20,7 +20,7 @@
         "カジュアル",
         "パズル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5562390/8b7f47e4619db89378e472a8629496c418e72860/capsule_231x87.jpg?t=1795772984",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5562390/8b7f47e4619db89378e472a8629496c418e72860/capsule_231x87.jpg?t=1795772984",
       "title": "一撇 One Stroke Short",
       "date": "2026-11-27",
       "price": 676,
@@ -33,10 +33,22 @@
         "ストラテジー",
         "パズル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5514700/0f3d419a7cda44c67304937bb3ae9bc4d62ab60b/capsule_231x87.jpg?t=1795770716",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5514700/0f3d419a7cda44c67304937bb3ae9bc4d62ab60b/capsule_231x87.jpg?t=1795770716",
       "title": "PanicOperator",
       "date": "2026-11-27",
       "price": 720,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5507390",
+      "genres": [
+        "RPG",
+        "シミュレーション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5507390/47dbb8107bb4f96ad85dc609ec610cdadd682d87/capsule_231x87_japanese.jpg?t=1795773532",
+      "title": "大学に戻る",
+      "date": "2026-11-27",
+      "price": 705,
       "checked": "2026-11-27"
     },
     {
@@ -45,10 +57,34 @@
         "RPG",
         "ストラテジー"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5500260/bf2034ca643fa9ccfbb5011a37c2a76a50cf0695/capsule_231x87.jpg?t=1795772535",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5500260/bf2034ca643fa9ccfbb5011a37c2a76a50cf0695/capsule_231x87.jpg?t=1795772535",
       "title": "GOD OF DEFIANCE",
       "date": "2026-11-27",
       "price": 1120,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5495890",
+      "genres": [
+        "カジュアル",
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5495890/ff8d260836300cdf1953c3030a4d3c21d1e5557c/capsule_231x87_japanese.jpg?t=1795773693",
+      "title": "影灯りの怪盗 ― 光と影のパズル",
+      "date": "2026-11-27",
+      "price": 1000,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5482480",
+      "genres": [
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5482480/a69c2cf33713f7c5e379d29bc7c52674e2d5498b/capsule_231x87_japanese.jpg?t=1795774483",
+      "title": "Cozy Moka",
+      "date": "2026-11-27",
+      "price": 705,
       "checked": "2026-11-27"
     },
     {
@@ -58,7 +94,7 @@
         "カジュアル",
         "パズル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5459570/611fdfa3f17a3e01a709d02a0aa3351a7a1cc07b/capsule_231x87.jpg?t=1795770608",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5459570/611fdfa3f17a3e01a709d02a0aa3351a7a1cc07b/capsule_231x87.jpg?t=1795770608",
       "title": "Make It Cozy",
       "date": "2026-11-27",
       "price": 718,
@@ -70,10 +106,22 @@
         "ストラテジー",
         "カジュアル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5381790/0e8a8d388472e8eae51724de45329c91d5733c9d/capsule_231x87_japanese.jpg?t=1795766507",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5381790/0e8a8d388472e8eae51724de45329c91d5733c9d/capsule_231x87_japanese.jpg?t=1795766507",
       "title": "N in One World Bridge Collection: Rubber Bridge, Chicago Bridge, Matchpoint Pairs, IMP Teams",
       "date": "2026-11-27",
       "price": 492,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5314450",
+      "genres": [
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5314450/baf50a5fc4ffb1407ff8eb3cd881601c8960633d/capsule_231x87.jpg?t=1795773419",
+      "title": "方寸小家 RoomFolk",
+      "date": "2026-11-27",
+      "price": 845,
       "checked": "2026-11-27"
     },
     {
@@ -83,7 +131,7 @@
         "カジュアル",
         "パズル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5295810/951dae1723c8cfb1024fe03b9c7e1f4b3a6b7ec2/capsule_231x87.jpg?t=1795766449",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5295810/951dae1723c8cfb1024fe03b9c7e1f4b3a6b7ec2/capsule_231x87.jpg?t=1795766449",
       "title": "The Film Archive",
       "date": "2026-11-27",
       "price": 711,
@@ -96,7 +144,7 @@
         "ストラテジー",
         "カジュアル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052960/bd4a13632987bd91dd92dae3cdf9575d3f161373/capsule_231x87.jpg?t=1795771556",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5052960/bd4a13632987bd91dd92dae3cdf9575d3f161373/capsule_231x87.jpg?t=1795771556",
       "title": "The Endless Harvest",
       "date": "2026-11-27",
       "price": 544,
@@ -107,7 +155,7 @@
       "genres": [
         "カジュアル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5014950/c2a578ce2ddfe361c8a68c474031944f08cabb42/capsule_231x87.jpg?t=1795771413",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5014950/c2a578ce2ddfe361c8a68c474031944f08cabb42/capsule_231x87.jpg?t=1795771413",
       "title": "PANCHIGI: Coin Slap Showdown",
       "date": "2026-11-27",
       "price": 335,
@@ -119,10 +167,22 @@
         "カジュアル",
         "パズル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919570/cb3192a5229c28e3323492023c4cf5d67ec3e672/capsule_231x87.jpg?t=1795770020",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4919570/cb3192a5229c28e3323492023c4cf5d67ec3e672/capsule_231x87.jpg?t=1795770020",
       "title": "Meow Star Archives",
       "date": "2026-11-27",
       "price": 1035,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4781060",
+      "genres": [
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4781060/c7f37427b8ee207d26e97fb01ae0dcc829a8abcf/capsule_231x87.jpg?t=1795775457",
+      "title": "三国权谋模拟器",
+      "date": "2026-11-27",
+      "price": 0,
       "checked": "2026-11-27"
     },
     {
@@ -131,7 +191,7 @@
         "ストラテジー",
         "パズル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620790/86c321c0a4f7d9d9b9432a89a24b4ec8530bed9a/capsule_231x87.jpg?t=1795767783",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4620790/86c321c0a4f7d9d9b9432a89a24b4ec8530bed9a/capsule_231x87.jpg?t=1795767783",
       "title": "Cargo Lines",
       "date": "2026-11-27",
       "price": 1360,
@@ -143,7 +203,7 @@
         "シミュレーション",
         "ストラテジー"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3221870/01e7949690b00c4e8036e2bc5ed4ba2a081069be/capsule_231x87.jpg?t=1795768552",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3221870/01e7949690b00c4e8036e2bc5ed4ba2a081069be/capsule_231x87.jpg?t=1795768552",
       "title": "Hexity",
       "date": "2026-11-27",
       "price": 224,
@@ -223,7 +283,7 @@
         "スポーツ",
         "レース"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5549660/8e9aaf102eb6a426d667963bc0e11495d1bf2754/capsule_231x87.jpg?t=1795732033",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5549660/8e9aaf102eb6a426d667963bc0e11495d1bf2754/capsule_231x87.jpg?t=1795732033",
       "title": "Kartelith: Racing Career",
       "date": "2026-11-26",
       "price": 1250,
@@ -319,7 +379,7 @@
       "genres": [
         "RPG"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5521810/050ad29bc63009e30ac863d154c22b47e245b36f/capsule_231x87_japanese.jpg?t=1795747858",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5521810/050ad29bc63009e30ac863d154c22b47e245b36f/capsule_231x87_japanese.jpg?t=1795747858",
       "title": "ただの村人のMMORPG",
       "date": "2026-11-26",
       "price": 833,
@@ -330,7 +390,7 @@
       "genres": [
         "シミュレーション"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5520280/00851a223c51a9616be5e3dc28c22e1159d6bc97/capsule_231x87_japanese.jpg?t=1795744753",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5520280/00851a223c51a9616be5e3dc28c22e1159d6bc97/capsule_231x87_japanese.jpg?t=1795744753",
       "title": "クリエイター・タイクーン",
       "date": "2026-11-26",
       "price": 837,
@@ -436,7 +496,7 @@
         "カジュアル",
         "パズル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5467210/12cfddfd2a79100461dd6a3bb35a01581c71c161/capsule_231x87.jpg?t=1795736193",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5467210/12cfddfd2a79100461dd6a3bb35a01581c71c161/capsule_231x87.jpg?t=1795736193",
       "title": "KINETET",
       "date": "2026-11-26",
       "price": 255,
@@ -519,7 +579,7 @@
       "genres": [
         "ストラテジー"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5427620/e44ab3c4df5ec0090155cf8747d5799a233332ea/capsule_231x87.jpg?t=1795759503",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5427620/e44ab3c4df5ec0090155cf8747d5799a233332ea/capsule_231x87.jpg?t=1795759503",
       "title": "SKYGUARD: Last Light",
       "date": "2026-11-26",
       "price": 634,
@@ -530,7 +590,7 @@
       "genres": [
         "アドベンチャー"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5417420/6e663351fa70dbd100eea31580d9865a93c6b03c/capsule_231x87.jpg?t=1795737610",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5417420/6e663351fa70dbd100eea31580d9865a93c6b03c/capsule_231x87.jpg?t=1795737610",
       "title": "やさ死くシて",
       "date": "2026-11-26",
       "price": 497,
@@ -541,7 +601,7 @@
       "genres": [
         "ストラテジー"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5417370/e9172aad4be7a616b7d4c6919fe7e5a1597bd65f/capsule_231x87.jpg?t=1795751923",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5417370/e9172aad4be7a616b7d4c6919fe7e5a1597bd65f/capsule_231x87.jpg?t=1795751923",
       "title": "东方自走棋",
       "date": "2026-11-26",
       "price": 378,
@@ -552,7 +612,7 @@
       "genres": [
         "RPG"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5414310/d455953432689c963e26ede49800292ec038c755/capsule_231x87.jpg?t=1795765135",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5414310/d455953432689c963e26ede49800292ec038c755/capsule_231x87.jpg?t=1795765135",
       "title": "寒伶：北齐流民录",
       "date": "2026-11-26",
       "price": 793,
@@ -577,7 +637,7 @@
         "シミュレーション",
         "インディー"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5406550/558d27387ddca4e16bb576a3e15402e9692b3c9d/capsule_231x87.jpg?t=1795741036",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5406550/558d27387ddca4e16bb576a3e15402e9692b3c9d/capsule_231x87.jpg?t=1795741036",
       "title": "Goshiwon | 고시원",
       "date": "2026-11-26",
       "price": 634,
@@ -612,7 +672,7 @@
         "アクション",
         "カジュアル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5320350/ef9ac9eb8695a477be3f22c7faea648d55228b85/capsule_231x87.jpg?t=1795745070",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5320350/ef9ac9eb8695a477be3f22c7faea648d55228b85/capsule_231x87.jpg?t=1795745070",
       "title": "Friendship Boat",
       "date": "2026-11-26",
       "price": 1350,
@@ -624,7 +684,7 @@
         "シミュレーション",
         "カジュアル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5304930/ae5d4da2e71ba105b47ee6c9ae29d3fc8d0d81a9/capsule_231x87.jpg?t=1795760254",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5304930/ae5d4da2e71ba105b47ee6c9ae29d3fc8d0d81a9/capsule_231x87.jpg?t=1795760254",
       "title": "Refluff: Carpet Cleaning ASMR",
       "date": "2026-11-26",
       "price": 705,
@@ -731,7 +791,7 @@
         "シミュレーション",
         "カジュアル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5178240/cafdaa8973127f23ff070f772d1f202405c5bc28/capsule_231x87.jpg?t=1795758345",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5178240/cafdaa8973127f23ff070f772d1f202405c5bc28/capsule_231x87.jpg?t=1795758345",
       "title": "Just Weeding",
       "date": "2026-11-26",
       "price": 449,
@@ -744,7 +804,7 @@
         "ホラー",
         "インディー"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5161950/dc9eb85552d31e32d07434b3aab058e9142bb41a/capsule_231x87.jpg?t=1795736267",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5161950/dc9eb85552d31e32d07434b3aab058e9142bb41a/capsule_231x87.jpg?t=1795736267",
       "title": "14番の凶宅",
       "date": "2026-11-26",
       "price": 676,
@@ -791,7 +851,7 @@
       "genres": [
         "アクション"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5073780/ead2d8bac76cfa60b9626bebd939d3b3a32875e9/capsule_231x87.jpg?t=1795743703",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5073780/ead2d8bac76cfa60b9626bebd939d3b3a32875e9/capsule_231x87.jpg?t=1795743703",
       "title": "Monster Showdown",
       "date": "2026-11-26",
       "price": 656,
@@ -804,7 +864,7 @@
         "RPG",
         "パズル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5063050/ec82a7272b5ecd5a0c3b2a0887221d7ee5c2490c/capsule_231x87.jpg?t=1795756671",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5063050/ec82a7272b5ecd5a0c3b2a0887221d7ee5c2490c/capsule_231x87.jpg?t=1795756671",
       "title": "灯守",
       "date": "2026-11-26",
       "price": 1147,
@@ -816,7 +876,7 @@
         "RPG",
         "ストラテジー"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5057880/bfa5e4f2cb47e2fb6e9f1cbaf0da3ab248600ba4/capsule_231x87.jpg?t=1795761844",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5057880/bfa5e4f2cb47e2fb6e9f1cbaf0da3ab248600ba4/capsule_231x87.jpg?t=1795761844",
       "title": "RE:CHAINED ～絆の鎖～",
       "date": "2026-11-26",
       "price": 1950,
@@ -830,7 +890,7 @@
         "シミュレーション",
         "カジュアル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044750/6030ac8fcaee5733912607aa8ed99faaeb17dcad/capsule_231x87_japanese.jpg?t=1795759129",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5044750/6030ac8fcaee5733912607aa8ed99faaeb17dcad/capsule_231x87_japanese.jpg?t=1795759129",
       "title": "モグラと鉱石",
       "date": "2026-11-26",
       "price": 676,
@@ -839,7 +899,7 @@
     {
       "id": "4992770",
       "genres": [],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992770/3db885edde3ac5efa029006852afd9c267d06a78/capsule_231x87.jpg?t=1795751990",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4992770/3db885edde3ac5efa029006852afd9c267d06a78/capsule_231x87.jpg?t=1795751990",
       "title": "Infinite Loop: Incremental",
       "date": "2026-11-26",
       "price": 449,
@@ -850,7 +910,7 @@
       "genres": [
         "ストラテジー"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986500/cc8dccd5219cdec243e2bb5f0af98e6219141469/capsule_231x87_japanese.jpg?t=1795748591",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4986500/cc8dccd5219cdec243e2bb5f0af98e6219141469/capsule_231x87_japanese.jpg?t=1795748591",
       "title": "並んで、魔王様！: オートバトラー",
       "date": "2026-11-26",
       "price": 1215,
@@ -947,7 +1007,7 @@
       "genres": [
         "カジュアル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750950/bddc9c12e52403e2fece43273d14a99672d459a8/capsule_231x87.jpg?t=1795762623",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4750950/bddc9c12e52403e2fece43273d14a99672d459a8/capsule_231x87.jpg?t=1795762623",
       "title": "The Last Deadline",
       "date": "2026-11-26",
       "price": 0,
@@ -956,7 +1016,7 @@
     {
       "id": "4729050",
       "genres": [],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729050/799fabbe934dc1c572ace4cd4649645fa4c44425/capsule_231x87.jpg?t=1795742124",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4729050/799fabbe934dc1c572ace4cd4649645fa4c44425/capsule_231x87.jpg?t=1795742124",
       "title": "Vibe Train",
       "date": "2026-11-26",
       "price": 1035,
@@ -1034,7 +1094,7 @@
         "RPG",
         "インディー"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613550/9a7edca4b1a2352394f53504d02b09d85761432d/capsule_231x87.jpg?t=1795763540",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4613550/9a7edca4b1a2352394f53504d02b09d85761432d/capsule_231x87.jpg?t=1795763540",
       "title": "GhostomVillage",
       "date": "2026-11-26",
       "price": 1215,
@@ -1043,7 +1103,7 @@
     {
       "id": "4537400",
       "genres": [],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537400/e45a754cd1a00a94d385247aeee469062a0f8c42/capsule_231x87.jpg?t=1795738944",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537400/e45a754cd1a00a94d385247aeee469062a0f8c42/capsule_231x87.jpg?t=1795738944",
       "title": "Paper2Galgame",
       "date": "2026-11-26",
       "price": 790,
@@ -1074,7 +1134,7 @@
       "genres": [
         "レース"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4442580/00509ac53d6b4b54e972e897cdb42bb5bd6d578b/capsule_231x87.jpg?t=1795747222",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4442580/00509ac53d6b4b54e972e897cdb42bb5bd6d578b/capsule_231x87.jpg?t=1795747222",
       "title": "カオスルーンヒーロー",
       "date": "2026-11-26",
       "price": 559,
@@ -1155,7 +1215,7 @@
     {
       "id": "4308270",
       "genres": [],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308270/6b84f66e81d65b061ec270700b3a8f23387108a1/capsule_231x87.jpg?t=1795745179",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4308270/6b84f66e81d65b061ec270700b3a8f23387108a1/capsule_231x87.jpg?t=1795745179",
       "title": "ハンターロード",
       "date": "2026-11-26",
       "price": 787,
@@ -1166,7 +1226,7 @@
       "genres": [
         "シミュレーション"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303120/c4fd31f3dc9727433b7f774308771cdf91c8bd00/capsule_231x87.jpg?t=1795734133",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4303120/c4fd31f3dc9727433b7f774308771cdf91c8bd00/capsule_231x87.jpg?t=1795734133",
       "title": "Blank Slate",
       "date": "2026-11-26",
       "price": 837,
@@ -1178,7 +1238,7 @@
         "シミュレーション",
         "カジュアル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275000/65cb90144bedc61a5171814b5229b5cb625ce2d2/capsule_231x87.jpg?t=1795762786",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4275000/65cb90144bedc61a5171814b5229b5cb625ce2d2/capsule_231x87.jpg?t=1795762786",
       "title": "Desktop Island: Idle Together!",
       "date": "2026-11-26",
       "price": 679,
@@ -1226,7 +1286,7 @@
         "シミュレーション",
         "ストラテジー"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/c411056f0cc0573fd76effaafdded2f73efc3d40/capsule_231x87_japanese.jpg?t=1795764633",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4088520/c411056f0cc0573fd76effaafdded2f73efc3d40/capsule_231x87_japanese.jpg?t=1795764633",
       "title": "ニャーファクトリー",
       "date": "2026-11-26",
       "price": 1530,
@@ -1247,7 +1307,7 @@
     {
       "id": "4013270",
       "genres": [],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013270/e2e42dbbe3f2078084820e887e82c1f543f09e40/capsule_231x87_japanese.jpg?t=1795742617",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4013270/e2e42dbbe3f2078084820e887e82c1f543f09e40/capsule_231x87_japanese.jpg?t=1795742617",
       "title": "偽りのアリス -Retold Tale-",
       "date": "2026-11-26",
       "price": 2800,
@@ -1270,7 +1330,7 @@
         "ストラテジー",
         "カジュアル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926400/dedd09f22b713398978af7ad1b5065f01109603b/capsule_231x87_japanese.jpg?t=1795735585",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3926400/dedd09f22b713398978af7ad1b5065f01109603b/capsule_231x87_japanese.jpg?t=1795735585",
       "title": "星艦ダイス",
       "date": "2026-11-26",
       "price": 238,
@@ -1331,7 +1391,7 @@
         "カジュアル",
         "パズル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3555790/ecee83cedd0ab9731ca25387785ce74c2a1e42e3/capsule_231x87.jpg?t=1795750274",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3555790/ecee83cedd0ab9731ca25387785ce74c2a1e42e3/capsule_231x87.jpg?t=1795750274",
       "title": "Dice Tiny Town",
       "date": "2026-11-26",
       "price": 892,
@@ -1416,7 +1476,7 @@
         "シミュレーション",
         "カジュアル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698030/bac3e2aeaea36ce7a437602d9ec14f0373b7f928/capsule_231x87_japanese.jpg?t=1795763637",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2698030/bac3e2aeaea36ce7a437602d9ec14f0373b7f928/capsule_231x87_japanese.jpg?t=1795763637",
       "title": "とうげんしき",
       "date": "2026-11-26",
       "price": 423,
@@ -1428,7 +1488,7 @@
         "RPG",
         "シミュレーション"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2533700/5dbb7086e993f6c3ca63400618e7e8526994f321/capsule_231x87_japanese.jpg?t=1795752016",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2533700/5dbb7086e993f6c3ca63400618e7e8526994f321/capsule_231x87_japanese.jpg?t=1795752016",
       "title": "借金×恋コネクション",
       "date": "2026-11-26",
       "price": 814,
@@ -39884,6 +39944,29 @@
       "checked": "2026-11-27"
     },
     {
+      "id": "5366840",
+      "genres": [
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5366840/bd6f7a94665fd08aeff5471dcc3cc8860a552edf/capsule_231x87.jpg?t=1795550875",
+      "title": "Chronime Puzzle: Horses",
+      "date": "2026-10-20",
+      "price": 265,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5360610",
+      "genres": [
+        "カジュアル",
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5360610/8cea8b35470827bc6929622a17dde02ba80fe151/capsule_231x87.jpg?t=1792504556",
+      "title": "MOVETOON",
+      "date": "2026-10-20",
+      "price": 400,
+      "checked": "2026-11-27"
+    },
+    {
       "id": "5357680",
       "genres": [
         "シミュレーション",
@@ -39896,15 +39979,39 @@
       "checked": "2026-11-27"
     },
     {
+      "id": "5357460",
+      "genres": [
+        "ストラテジー",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5357460/33e5c09252c1f8c66ffec41d1ef9bfca6a0ad120/capsule_231x87_japanese.jpg?t=1792479651",
+      "title": "いかさまこいこい",
+      "date": "2026-10-20",
+      "price": 1200,
+      "checked": "2026-11-27"
+    },
+    {
       "id": "5354440",
       "genres": [
         "カジュアル",
         "パズル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5354440/b350cf05e39c815228d17d26bd0900f0b6251e44/capsule_231x87.jpg?t=1792507541",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5354440/b350cf05e39c815228d17d26bd0900f0b6251e44/capsule_231x87.jpg?t=1792507541",
       "title": "Swaplines",
       "date": "2026-10-20",
       "price": 524,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5352620",
+      "genres": [
+        "カジュアル",
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5352620/a3ef966bd9a03aff7828a3c297a983c300511dfb/capsule_231x87.jpg?t=1792504551",
+      "title": "SPLACHESS",
+      "date": "2026-10-20",
+      "price": 400,
       "checked": "2026-11-27"
     },
     {
@@ -39917,6 +40024,53 @@
       "title": "ROTORORA Drone Racing",
       "date": "2026-10-20",
       "price": 1000,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5324790",
+      "genres": [
+        "ストラテジー",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5324790/23266e4c8de9cf51f5f8333447bc98f6d7a5037d/capsule_231x87.jpg?t=1793100372",
+      "title": "スーパーヒーロー：ホーム防衛",
+      "date": "2026-10-20",
+      "price": 560,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5318990",
+      "genres": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5318990/d3b3b5cd9d7da69b22ae7fa32ac8ffcc48f73fc7/capsule_231x87_japanese.jpg?t=1792499214",
+      "title": "真・竹取物語",
+      "date": "2026-10-20",
+      "price": 1000,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5294600",
+      "genres": [
+        "カジュアル",
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5294600/5b461dea1869a600273626f8eb2aa353c8026015/capsule_231x87.jpg?t=1792504540",
+      "title": "将棋トゥーン",
+      "date": "2026-10-20",
+      "price": 400,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5283850",
+      "genres": [
+        "アクション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5283850/195499326e84c2e38bfd650b323fb8383c9c7c1b/capsule_231x87.jpg?t=1792499982",
+      "title": "Trick or Eat",
+      "date": "2026-10-20",
+      "price": 905,
       "checked": "2026-11-27"
     },
     {
@@ -39938,7 +40092,7 @@
         "シミュレーション",
         "カジュアル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5221770/4e2bda3e9e6e479e08cfd3a6340bfcf7d5e62350/capsule_231x87.jpg?t=1795349254",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5221770/4e2bda3e9e6e479e08cfd3a6340bfcf7d5e62350/capsule_231x87.jpg?t=1795349254",
       "title": "Dino Dome: Tidy Up!",
       "date": "2026-10-20",
       "price": 790,
@@ -39965,6 +40119,37 @@
       "title": "Revenant Dawn",
       "date": "2026-10-20",
       "price": 1600,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5189370",
+      "genres": [
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5189370/0e4912401426ac9b2cdc5c982306cad9893d909b/capsule_231x87.jpg?t=1795774261",
+      "title": "Trapoint",
+      "date": "2026-10-20",
+      "price": 1050,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5183710",
+      "genres": [
+        "アドベンチャー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5183710/3d47bb34ed6a40496f9c7588a8895b612ba318e7/capsule_231x87_japanese.jpg?t=1794905536",
+      "title": "霓虹末世录",
+      "date": "2026-10-20",
+      "price": 3934,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5175940",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5175940/300753ead74f826093e40d17a1d7d0141c5a7f43/capsule_231x87_japanese.jpg?t=1792501262",
+      "title": "大手IT企業で外注やってます",
+      "date": "2026-10-20",
+      "price": 186,
       "checked": "2026-11-27"
     },
     {
@@ -39997,7 +40182,7 @@
         "シミュレーション",
         "カジュアル"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038030/4adbfb4d24f007a01539456a6441e1e8ae678d92/capsule_231x87.jpg?t=1792506946",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5038030/4adbfb4d24f007a01539456a6441e1e8ae678d92/capsule_231x87.jpg?t=1792506946",
       "title": "Frog Frog Parkour",
       "date": "2026-10-20",
       "price": 905,
@@ -40008,7 +40193,7 @@
       "genres": [
         "ストラテジー"
       ],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5009950/c396de1ee6c0a2f39339e3da416b7d39450a7650/capsule_231x87_japanese.jpg?t=1793598061",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5009950/c396de1ee6c0a2f39339e3da416b7d39450a7650/capsule_231x87_japanese.jpg?t=1793598061",
       "title": "十三州·汉刃",
       "date": "2026-10-20",
       "price": 1350,
@@ -40023,6 +40208,17 @@
       "title": "Spirit Route",
       "date": "2026-10-20",
       "price": 1350,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4771440",
+      "genres": [
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4771440/94aab81d5b496c2fc20cee55182a710af551bf47/capsule_231x87.jpg?t=1792498967",
+      "title": "Camille Queen of Chess bots",
+      "date": "2026-10-20",
+      "price": 4200,
       "checked": "2026-11-27"
     },
     {
@@ -40096,7 +40292,7 @@
     {
       "id": "4131220",
       "genres": [],
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131220/a8d8d2e3e89c266186d69c36c4652d5de6a0f7dd/capsule_231x87.jpg?t=1793856736",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4131220/a8d8d2e3e89c266186d69c36c4652d5de6a0f7dd/capsule_231x87.jpg?t=1793856736",
       "title": "AKIBA LOST - アキバロスト",
       "date": "2026-10-20",
       "price": 5500,
@@ -40147,6 +40343,19 @@
       "checked": "2026-11-27"
     },
     {
+      "id": "3645890",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "ホラー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3645890/85d2c928ab2e4c703cc4c40f6451035fdac3988a/capsule_231x87_alt_assets_0.jpg?t=1792492815",
+      "title": "GONE Fishing",
+      "date": "2026-10-20",
+      "price": 999,
+      "checked": "2026-11-27"
+    },
+    {
       "id": "3506830",
       "genres": [
         "パズル",
@@ -40159,6 +40368,17 @@
       "checked": "2026-11-27"
     },
     {
+      "id": "3402230",
+      "genres": [
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3402230/7e52bb62c817ef1b540d18cab346b7e3ba8a007a/capsule_231x87.jpg?t=1792500003",
+      "title": "Sivers",
+      "date": "2026-10-20",
+      "price": 985,
+      "checked": "2026-11-27"
+    },
+    {
       "id": "3247750",
       "genres": [
         "アクション"
@@ -40167,6 +40387,1481 @@
       "title": "Mycopunk: 俺たちキノコバスターズ",
       "date": "2026-10-20",
       "price": 1700,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "2315050",
+      "genres": [
+        "アドベンチャー",
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2315050/18c8f4f1b23e258bda5f0ca7ecf3bfd2e64313a6/capsule_231x87_alt_assets_3.jpg?t=1792695687",
+      "title": "We Were Here Tomorrow",
+      "date": "2026-10-20",
+      "price": 2600,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5362580",
+      "genres": [
+        "ストラテジー",
+        "スポーツ",
+        "カジュアル",
+        "インディー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5362580/48d8009f4759ab5bc2517dbdd908f6bb95e85192/capsule_231x87.jpg?t=1792706970",
+      "title": "RULEBALL",
+      "date": "2026-10-19",
+      "price": 575,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5359760",
+      "genres": [
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5359760/5fb8fd6ff8a0794bfdae21beeafbb7e4cbf81947/capsule_231x87.jpg?t=1792393504",
+      "title": "The Harbour Between Us",
+      "date": "2026-10-19",
+      "price": 0,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5334500",
+      "genres": [
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5334500/bd872e42e1a1c0648781fe6c5de0e02f216468e4/capsule_231x87.jpg?t=1792407157",
+      "title": "Insufferedere: Kuudere",
+      "date": "2026-10-19",
+      "price": 140,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5332620",
+      "genres": [
+        "アクション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5332620/9e3adc7e0ad860223e03ddebea1fc2d7fb52f872/capsule_231x87_japanese.jpg?t=1792393995",
+      "title": "幽霊艦隊",
+      "date": "2026-10-19",
+      "price": 1350,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5332540",
+      "genres": [
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5332540/9347ef8b2f07e06b689e913452b62b35fd886075/capsule_231x87.jpg?t=1792400648",
+      "title": "Tsudoi",
+      "date": "2026-10-19",
+      "price": 655,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5328960",
+      "genres": [
+        "レース"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5328960/2c8fdcc9a0ed2394ab1f977e822f5da684d12876/capsule_231x87.jpg?t=1792415129",
+      "title": "Tow Rage",
+      "date": "2026-10-19",
+      "price": 1350,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5321580",
+      "genres": [
+        "アクション",
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5321580/cc04b65413b92b2ff84bdae7ebaaf2b15fe3e0ab/capsule_231x87_japanese.jpg?t=1794823211",
+      "title": "トロッコ問題は、問題じゃない。",
+      "date": "2026-10-19",
+      "price": 880,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5309060",
+      "genres": [
+        "シミュレーション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5309060/e80729137a37761dfea8948912e7612f7697c8c8/capsule_231x87_japanese.jpg?t=1792425908",
+      "title": "にゃんこのいる午後 -Afternoon Paws-",
+      "date": "2026-10-19",
+      "price": 530,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5296420",
+      "genres": [
+        "カジュアル",
+        "パズル",
+        "インディー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5296420/d2ac0f63afe2ed5378c2b63a62fcbc51c1117360/capsule_231x87.jpg?t=1793693775",
+      "title": "GemLoop",
+      "date": "2026-10-19",
+      "price": 655,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5293210",
+      "genres": [
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5293210/96488cb166ab9d455870011536ab9fdef5c9b1a5/capsule_231x87.jpg?t=1794648512",
+      "title": "ROGRID",
+      "date": "2026-10-19",
+      "price": 1350,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5287930",
+      "genres": [
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5287930/529f650fcacd2816b69267736327da1e1158c09d/capsule_231x87.jpg?t=1792474915",
+      "title": "精霊の森",
+      "date": "2026-10-19",
+      "price": 530,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5286420",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5286420/f763f18efac9220daa44bd7de2b79f2847b0c90f/capsule_231x87.jpg?t=1792429237",
+      "title": "Just Pancake Simulator",
+      "date": "2026-10-19",
+      "price": 238,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5241840",
+      "genres": [
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5241840/b2bc3226bea84651edda6c95d0d6e43940b6a463/capsule_231x87.jpg?t=1794690117",
+      "title": "Armament Inc",
+      "date": "2026-10-19",
+      "price": 1001,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5228820",
+      "genres": [
+        "アクション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5228820/d609fe608062c0a7d23e96729154d99d730db409/capsule_231x87.jpg?t=1793745661",
+      "title": "BitVoid",
+      "date": "2026-10-19",
+      "price": 310,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5178180",
+      "genres": [
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5178180/3e8e757f00796fd0b8a8338af17c7494c382eca0/capsule_231x87.jpg?t=1793671415",
+      "title": "Forge Shop",
+      "date": "2026-10-19",
+      "price": 0,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5061040",
+      "genres": [
+        "RPG",
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5061040/8e6df509342798bcfa090d530c60c25e94d1e6f7/capsule_231x87.jpg?t=1795725582",
+      "title": "Quartermark",
+      "date": "2026-10-19",
+      "price": 140,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5056360",
+      "genres": [
+        "アクション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5056360/0a4504733d60e00e3ab4e5be2911d4e80762800c/capsule_231x87.jpg?t=1795304832",
+      "title": "Crypt Survivor",
+      "date": "2026-10-19",
+      "price": 905,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4952170",
+      "genres": [
+        "ホラー",
+        "インディー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4952170/fe3130653c04e87c8da3b4a9b30669f587b77063/capsule_231x87.jpg?t=1793134970",
+      "title": "Her Revenge",
+      "date": "2026-10-19",
+      "price": 515,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4944840",
+      "genres": [
+        "カジュアル",
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4944840/964209b6033967ff53a3c26887b5b433ee1bce9b/capsule_231x87_japanese.jpg?t=1795018957",
+      "title": "やらかしにゃんこパズル",
+      "date": "2026-10-19",
+      "price": 499,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4919380",
+      "genres": [
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4919380/18dac0e366d818f080552648522216bfd4b5c3f7/capsule_231x87.jpg?t=1793160444",
+      "title": "Grand Theft Idiots",
+      "date": "2026-10-19",
+      "price": 790,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4841390",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4841390/806308bd6907f474795cd073781b33bbe118cafc/capsule_231x87.jpg?t=1792777160",
+      "title": "Curse of Baghdad",
+      "date": "2026-10-19",
+      "price": 1150,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4835610",
+      "genres": [
+        "アクション",
+        "RPG"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4835610/c8c6f87a946748b2f055f19277d6c9ab57af3e97/capsule_231x87.jpg?t=1792400514",
+      "title": "Cielvia-Inherited By Defeat-",
+      "date": "2026-10-19",
+      "price": 1150,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4734310",
+      "genres": [
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4734310/f917a259fca0592a1533853f7898cb85eb742a29/capsule_231x87_japanese.jpg?t=1794860611",
+      "title": "針の番人 ～Needle Guardian～",
+      "date": "2026-10-19",
+      "price": 724,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4633060",
+      "genres": [
+        "ホラー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4633060/93ff30dbd07574651cee3009284a791a3cc9c5b2/capsule_231x87.jpg?t=1792427543",
+      "title": "Pareidolia",
+      "date": "2026-10-19",
+      "price": 560,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4621970",
+      "genres": [
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4621970/e47a41f49ee323b36b455b8413f295bacf44972c/capsule_231x87.jpg?t=1794023453",
+      "title": "Loop Dungeon - Incremental",
+      "date": "2026-10-19",
+      "price": 655,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4454110",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4454110/ec5bbdba0ef5f9acf9dc3fa802b200a290232b01/capsule_231x87.jpg?t=1792510078",
+      "title": "Softboiled",
+      "date": "2026-10-19",
+      "price": 710,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4381180",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4381180/feca73165b7bb346f3d0e4b599fcb526b7012c08/capsule_231x87_japanese.jpg?t=1792566961",
+      "title": "Coin Harvest",
+      "date": "2026-10-19",
+      "price": 470,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4374440",
+      "genres": [
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4374440/dc498d7ab09acd67c78f3800de920ca230bd070f/capsule_231x87.jpg?t=1792418748",
+      "title": "Submarine Homesick Blues",
+      "date": "2026-10-19",
+      "price": 920,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4314060",
+      "genres": [
+        "カジュアル",
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4314060/fdd31b3dcddff784510f4342cd1807ce16c2c935/capsule_231x87.jpg?t=1792577209",
+      "title": "パズまお〜Puzzle and Magical Overlord〜",
+      "date": "2026-10-19",
+      "price": 1900,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4304900",
+      "genres": [
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4304900/9fc201555634b63c832ba2780350f2a7b0468a22/capsule_231x87_japanese.jpg?t=1795606571",
+      "title": "超大発掘",
+      "date": "2026-10-19",
+      "price": 999,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4185740",
+      "genres": [
+        "アクション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4185740/b5f4571879f8ff75590c74259aae7417f773d02d/capsule_231x87_japanese.jpg?t=1792421980",
+      "title": "アオノアーティファクト+",
+      "date": "2026-10-19",
+      "price": 300,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "3839910",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3839910/5253a2331a9de1a9106cbdd25d90b5992a8a37a0/capsule_231x87.jpg?t=1792465274",
+      "title": "Only Fans",
+      "date": "2026-10-19",
+      "price": 265,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "3536520",
+      "genres": [
+        "アクション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3536520/0101058c23fe6cf7a612cee46683df8641d26b34/capsule_231x87.jpg?t=1792586009",
+      "title": "Warding Witches",
+      "date": "2026-10-19",
+      "price": 1700,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "1274700",
+      "genres": [
+        "アクション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1274700/e8e783ebc99d997b7566ffa07f83a1eb74f6612e/capsule_231x87.jpg?t=1792424085",
+      "title": "You Alone Can Defeat Evil",
+      "date": "2026-10-19",
+      "price": 350,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "552740",
+      "genres": [
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/552740/e3d2fb0b56ebc0df2ec0154810004390e9bf4556/capsule_231x87.jpg?t=1794163965",
+      "title": "The Marquee: Lights. Camera. Legacy.",
+      "date": "2026-10-19",
+      "price": 1450,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5360830",
+      "genres": [
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5360830/a2a94807e812e575dc3c07a4d3fbe61f48866610/capsule_231x87.jpg?t=1792342282",
+      "title": "a Flower for you",
+      "date": "2026-10-18",
+      "price": 265,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5315860",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5315860/88893263e504a20907591ef8476281472f3827c1/capsule_231x87.jpg?t=1793539391",
+      "title": "Scribble Tanks",
+      "date": "2026-10-18",
+      "price": 560,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5310130",
+      "genres": [
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5310130/c3bb52d11c43fd5cfed96e7c9b95c2ff02919eb3/capsule_231x87.jpg?t=1792367632",
+      "title": "Recycled",
+      "date": "2026-10-18",
+      "price": 305,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5284680",
+      "genres": [
+        "アクション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5284680/3e145c89747e62f6652e755a40b344c53b11e8ff/capsule_231x87.jpg?t=1792379959",
+      "title": "Armed Monsters",
+      "date": "2026-10-18",
+      "price": 845,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5252050",
+      "genres": [
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5252050/18a48f7a80a3fdc221fb531accf6e7a6cedf90bd/capsule_231x87.jpg?t=1793810995",
+      "title": "Poker Heroes - ポーカーヒーローズ",
+      "date": "2026-10-18",
+      "price": 705,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5119740",
+      "genres": [
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5119740/4edbac9880aad62bc0605605693b8aa2de797592/capsule_231x87_japanese.jpg?t=1792396953",
+      "title": "世界まるごとお片付け Universal Tidy Up",
+      "date": "2026-10-18",
+      "price": 1150,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5067390",
+      "genres": [
+        "アクション",
+        "シミュレーション",
+        "ストラテジー",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5067390/48e5070734666b8c7833c1fdd101846751ae47b7/capsule_231x87.jpg?t=1792473463",
+      "title": "GRIDMINE",
+      "date": "2026-10-18",
+      "price": 280,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4963690",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4963690/dfd1343742e3c4d74d17237e5e5ea5a2021bd53e/capsule_231x87.jpg?t=1795234011",
+      "title": "The Loomsong Chronicle Idle",
+      "date": "2026-10-18",
+      "price": 1600,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4957470",
+      "genres": [
+        "アクション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4957470/87146365e35cba074fdf207383d32b59ef08e197/capsule_231x87.jpg?t=1792362031",
+      "title": "Obey the Beat",
+      "date": "2026-10-18",
+      "price": 395,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4864980",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4864980/c178bd2196e1a97124cdce6bb0a921f130a9d80a/capsule_231x87.jpg?t=1793840406",
+      "title": "One Thought to Buddhahood",
+      "date": "2026-10-18",
+      "price": 27861,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4714620",
+      "genres": [
+        "RPG"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4714620/c3d92417b9e0c23db4d5eda92b4e392aa9de8934/capsule_231x87.jpg?t=1792389559",
+      "title": "Dynamite Blue",
+      "date": "2026-10-18",
+      "price": 0,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4694770",
+      "genres": [
+        "アクション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4694770/fdd6ce12142f0a7dd8703df58d8d432cfd23233a/capsule_231x87.jpg?t=1795423925",
+      "title": "HELLBENT",
+      "date": "2026-10-18",
+      "price": 0,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "1478970",
+      "genres": [
+        "RPG"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1478970/5a83fb97905e4686a0bb65cb2e51f167579b44e0/capsule_231x87.jpg?t=1793691206",
+      "title": "Olympius",
+      "date": "2026-10-18",
+      "price": 1900,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5341750",
+      "genres": [
+        "ストラテジー",
+        "カジュアル",
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5341750/dbd2789a514637e68d0f86137698cbaff8f7825e/capsule_231x87_japanese.jpg?t=1792542487",
+      "title": "Looks Like It Fits",
+      "date": "2026-10-17",
+      "price": 265,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5319460",
+      "genres": [
+        "RPG",
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5319460/1d26f579fefb77e24f2db2242e80f9c16abf3853/capsule_231x87.jpg?t=1792225882",
+      "title": "ペンローグ",
+      "date": "2026-10-17",
+      "price": 655,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5280170",
+      "genres": [
+        "アクション",
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5280170/f8d58b1c73388f00ea3894b84e65c6f3c41ead28/capsule_231x87.jpg?t=1794158548",
+      "title": "AWAITING YOUR HORDERS",
+      "date": "2026-10-17",
+      "price": 1150,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5267570",
+      "genres": [
+        "カジュアル",
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5267570/d57fd4f18a7e139cc7518c2c4d7a208dba845100/capsule_231x87.jpg?t=1792830326",
+      "title": "Needle Hunt",
+      "date": "2026-10-17",
+      "price": 67,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5262700",
+      "genres": [
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5262700/0736f2f445290ed704f0beb5359c55492cce2116/capsule_231x87_japanese.jpg?t=1792225902",
+      "title": "仙道奇譚",
+      "date": "2026-10-17",
+      "price": 280,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5260570",
+      "genres": [
+        "アクション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5260570/a5b6703f3b4e913b7ba784c5454bb254dbdcd0ce/capsule_231x87.jpg?t=1792253174",
+      "title": "Headbutt Dino",
+      "date": "2026-10-17",
+      "price": 655,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5251110",
+      "genres": [
+        "RPG"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5251110/f766b18e1bbc253721abc3c87928840d0d0bc7a6/capsule_231x87.jpg?t=1792546166",
+      "title": "touhou AICHATRPG",
+      "date": "2026-10-17",
+      "price": 705,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5198130",
+      "genres": [
+        "ストラテジー",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5198130/364aa0f83f751dca877a49fa02adca2e117d8771/capsule_231x87.jpg?t=1792292139",
+      "title": "Meteors Are Art",
+      "date": "2026-10-17",
+      "price": 1350,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5080810",
+      "genres": [
+        "シミュレーション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5080810/ae7ec8ac898530d5d4d145d6f8ed805a5715a97b/capsule_231x87.jpg?t=1792220524",
+      "title": "Yatai 8",
+      "date": "2026-10-17",
+      "price": 530,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4597500",
+      "genres": [
+        "シミュレーション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4597500/c0905a4eb22043bde7dcd38e6458a5dc7a6eab23/capsule_231x87.jpg?t=1793361831",
+      "title": "Cook with Card",
+      "date": "2026-10-17",
+      "price": 1050,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4207160",
+      "genres": [
+        "RPG"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4207160/4b03605d58d3df32a25bc9a9fb227e7e307f0d92/capsule_231x87_japanese.jpg?t=1792787441",
+      "title": "ヴァンパイアズ・キス：タイム・パラドックス",
+      "date": "2026-10-17",
+      "price": 424,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4201350",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4201350/a9af23b22392412ca69923d099006ce07f198469/capsule_231x87.jpg?t=1793497195",
+      "title": "Xolotl's Escape",
+      "date": "2026-10-17",
+      "price": 845,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "2204760",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2204760/9475dedb42cf3942217b065eea37bdc6637484cd/capsule_231x87.jpg?t=1792254244",
+      "title": "Cat Life",
+      "date": "2026-10-17",
+      "price": 890,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "1813170",
+      "genres": [
+        "ホラー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1813170/b37322b712649ecad3fc715008ef0e1860bed76c/capsule_231x87.jpg?t=1792301673",
+      "title": "Surrounded",
+      "date": "2026-10-17",
+      "price": 930,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5348390",
+      "genres": [
+        "アドベンチャー",
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5348390/3fc425e1a2ce5a88af85f2d1aa9494b86244d80e/capsule_231x87.jpg?t=1792164856",
+      "title": "Skystead",
+      "date": "2026-10-16",
+      "price": 985,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5345950",
+      "genres": [
+        "アクション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5345950/a447437fd99bc55d21776e88ac933cc585a9c7c1/capsule_231x87.jpg?t=1795480520",
+      "title": "Deep Space Siege",
+      "date": "2026-10-16",
+      "price": 530,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5343870",
+      "genres": [
+        "アクション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5343870/b067026c6f1ac9b6f38649f950879ad7ba30e906/capsule_231x87.jpg?t=1792134921",
+      "title": "Spear and Shot",
+      "date": "2026-10-16",
+      "price": 655,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5339960",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5339960/efa97f0780fbf3b2f6bb308aea098dc70736a33f/capsule_231x87.jpg?t=1794925600",
+      "title": "ちいさな楽園",
+      "date": "2026-10-16",
+      "price": 395,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5336990",
+      "genres": [
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5336990/e311a39aae3fafafdee78874e76726e92ec56feb/capsule_231x87.jpg?t=1795746791",
+      "title": "Veins of the Sleeping Moon",
+      "date": "2026-10-16",
+      "price": 589,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5336280",
+      "genres": [
+        "アクション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5336280/3b15be03d672f5f8c151553fe363312f695add66/capsule_231x87.jpg?t=1795651858",
+      "title": "STICKSHOT: Comic War",
+      "date": "2026-10-16",
+      "price": 280,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5336140",
+      "genres": [
+        "ストラテジー",
+        "カジュアル",
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5336140/4bf0fe7aba154a13afccbc64cced9ebe2a0fcdaa/capsule_231x87.jpg?t=1792197045",
+      "title": "W DoBark",
+      "date": "2026-10-16",
+      "price": 1216,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5324940",
+      "genres": [
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5324940/79653f21d4dabae557cb5a10c37d84c9759f7a65/capsule_231x87_japanese.jpg?t=1792157342",
+      "title": "SMOKE HAVEN：喫煙所シミュレーター",
+      "date": "2026-10-16",
+      "price": 900,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5316940",
+      "genres": [
+        "ストラテジー",
+        "カジュアル",
+        "インディー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5316940/7364537bf549802d5580fa9268b968e138968618/capsule_231x87.jpg?t=1793490652",
+      "title": "GRID64",
+      "date": "2026-10-16",
+      "price": 395,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5313050",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5313050/6655ddf65f507081de0da0b41414765c2bcdabc5/capsule_231x87.jpg?t=1792199829",
+      "title": "Astrology 101",
+      "date": "2026-10-16",
+      "price": 420,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5302110",
+      "genres": [
+        "アクション",
+        "RPG",
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5302110/342d5d4887af7dd53cc2c7dca669a428306d6f78/capsule_231x87.jpg?t=1793461806",
+      "title": "搶孤",
+      "date": "2026-10-16",
+      "price": 0,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5298330",
+      "genres": [
+        "アクション",
+        "シミュレーション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5298330/4865dc5ac2e181207935fb4b11e41f792fa1cef5/capsule_231x87.jpg?t=1793415734",
+      "title": "Footage: FLIR",
+      "date": "2026-10-16",
+      "price": 1150,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5295950",
+      "genres": [
+        "RPG",
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5295950/bc5f30524d1d05637f63c729576c715f9f654014/capsule_231x87.jpg?t=1792424231",
+      "title": "Remnants of Vaedra: Tales of the Dicebound",
+      "date": "2026-10-16",
+      "price": 840,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5288610",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5288610/c84c8ce218183a2c6e5efebacf846d973b676eb1/capsule_231x87.jpg?t=1792756018",
+      "title": "Lotwick Hill",
+      "date": "2026-10-16",
+      "price": 900,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5288140",
+      "genres": [
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5288140/814597ad27a4400169c2e9a5df4dc1ed345d54a6/capsule_231x87.jpg?t=1795669731",
+      "title": "Tidy Master",
+      "date": "2026-10-16",
+      "price": 1150,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5283170",
+      "genres": [
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5283170/9676747667d3a47f1681d6c7dd7beb5dcefe8742/capsule_231x87_japanese.jpg?t=1792137547",
+      "title": "猫ありて富貴あり",
+      "date": "2026-10-16",
+      "price": 305,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5269420",
+      "genres": [
+        "シミュレーション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5269420/d161a5d4219a2ffd41a60b873e9a5caeea3fe10a/capsule_231x87.jpg?t=1792173670",
+      "title": "I Was Summoned to Another World, but All I Do Is Organize a Run-Down Village",
+      "date": "2026-10-16",
+      "price": 799,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5261190",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5261190/8bf27bca975ba86d2d47f01fae101ceece249ddd/capsule_231x87.jpg?t=1792142878",
+      "title": "Wedding Runner",
+      "date": "2026-10-16",
+      "price": 590,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5256770",
+      "genres": [
+        "アクション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5256770/4fa57b6095cb78e45ed02bff81babb96f57de2c7/capsule_231x87.jpg?t=1792162755",
+      "title": "PropHuntFPS",
+      "date": "2026-10-16",
+      "price": 0,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5252440",
+      "genres": [
+        "RPG",
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5252440/0833d1a1c508aedfd8f4a22459a76a93c09584d5/capsule_231x87.jpg?t=1792569900",
+      "title": "Steel & Fortune",
+      "date": "2026-10-16",
+      "price": 985,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5233990",
+      "genres": [
+        "RPG",
+        "シミュレーション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5233990/2039c4bf6c47f61aeb759d4cf87fa3152d4cf24b/capsule_231x87.jpg?t=1792155663",
+      "title": "ノルヴェール戦記-紫水晶の旅物語-",
+      "date": "2026-10-16",
+      "price": 0,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5221700",
+      "genres": [
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5221700/281627a0ea35f79b2c6905e2299ca2c601011364/capsule_231x87.jpg?t=1795362397",
+      "title": "Bone Idle",
+      "date": "2026-10-16",
+      "price": 655,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5211690",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5211690/93fcd2defd8f69bfecaf10035bc6962e68511273/capsule_231x87.jpg?t=1795534728",
+      "title": "Ghillie Wars",
+      "date": "2026-10-16",
+      "price": 790,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5190030",
+      "genres": [
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5190030/66e13718963c9f20b04559909e76927c427bdee4/capsule_231x87.jpg?t=1794920178",
+      "title": "Tidy Up the Town",
+      "date": "2026-10-16",
+      "price": 774,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5188400",
+      "genres": [
+        "シミュレーション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5188400/de151086508a3ab5d1d7e7bfc50910e8d4ef9822/capsule_231x87.jpg?t=1792942500",
+      "title": "TCG: Collector’s Mess",
+      "date": "2026-10-16",
+      "price": 425,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5186540",
+      "genres": [
+        "アクション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5186540/6d4382707604d3ca9e1c61d79b16b3d2157393fc/capsule_231x87_japanese.jpg?t=1792162820",
+      "title": "ぬめぬめ",
+      "date": "2026-10-16",
+      "price": 500,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5184200",
+      "genres": [
+        "スポーツ",
+        "カジュアル",
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5184200/562d6024fcbd0ec1d33be8c6506ccd5135f63e22/capsule_231x87_japanese.jpg?t=1792142584",
+      "title": "キューリアス",
+      "date": "2026-10-16",
+      "price": 499,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5182980",
+      "genres": [
+        "ストラテジー",
+        "スポーツ",
+        "インディー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5182980/0b7609fdd90fdc5d4ce7d5a3e7051ec71c794708/capsule_231x87.jpg?t=1794877981",
+      "title": "Auto Ball",
+      "date": "2026-10-16",
+      "price": 1050,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5153630",
+      "genres": [
+        "アクション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5153630/9c0d09da2cdf6fc3de39af03876da13a18dee408/capsule_231x87.jpg?t=1794423125",
+      "title": "City Walker",
+      "date": "2026-10-16",
+      "price": 1080,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5134730",
+      "genres": [
+        "アクション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5134730/65820b9790d7b8f623e149cab3a0ea62fb9b4a5f/capsule_231x87.jpg?t=1794564023",
+      "title": "TAKE MY BOMB",
+      "date": "2026-10-16",
+      "price": 790,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5127370",
+      "genres": [
+        "アクション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5127370/039e3dd05cef0e375547706e51c227cc24897941/capsule_231x87.jpg?t=1793163125",
+      "title": "Who's Cheating?",
+      "date": "2026-10-16",
+      "price": 1024,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5118700",
+      "genres": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5118700/32a16b6742af0bce305cf8ebf4ed0e1eb55be7e6/capsule_231x87_japanese.jpg?t=1792164731",
+      "title": "//トロイメライ・ノクターン",
+      "date": "2026-10-16",
+      "price": 0,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5075770",
+      "genres": [
+        "ホラー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5075770/f6bec724313fbd240c1576f8b49f4ae0b6a09de0/capsule_231x87.jpg?t=1792153348",
+      "title": "M!RACLE home_page",
+      "date": "2026-10-16",
+      "price": 199,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5066530",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5066530/8de5988399ee87aeb7699f7e0f848f70de3a9949/capsule_231x87.jpg?t=1795448912",
+      "title": "Nekomancer",
+      "date": "2026-10-16",
+      "price": 639,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5055370",
+      "genres": [
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5055370/a4219a833b3c2d3c2625788adcc9cf79726e4406/capsule_231x87.jpg?t=1792138304",
+      "title": "Hide & Swipe",
+      "date": "2026-10-16",
+      "price": 530,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5048530",
+      "genres": [
+        "アクション",
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5048530/0fc6832e8833a735a349ac61af5ace937a002d81/capsule_231x87_japanese.jpg?t=1795414139",
+      "title": "The Town is Overrun",
+      "date": "2026-10-16",
+      "price": 810,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4952840",
+      "genres": [
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4952840/4663834d0bea1d83582fc2dd4f5ea3838d80c7e5/capsule_231x87.jpg?t=1792575885",
+      "title": "Catch the Octopus",
+      "date": "2026-10-16",
+      "price": 835,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4924000",
+      "genres": [
+        "アクション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4924000/6f66c53807bf536ce72971bf8b30417cb032e27c/capsule_231x87.jpg?t=1794980242",
+      "title": "SpudFall",
+      "date": "2026-10-16",
+      "price": 905,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4909000",
+      "genres": [
+        "シミュレーション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4909000/1165b8917bf3db35097a295915fd2ce6eb5bda87/capsule_231x87.jpg?t=1792134171",
+      "title": "Maggot Detective: Forensic Entomology Simulator",
+      "date": "2026-10-16",
+      "price": 591,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4825910",
+      "genres": [
+        "アクション",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4825910/58d96c655cd100d70029a64bbc7113665407248a/capsule_231x87.jpg?t=1792164155",
+      "title": "Weed Lord Simulator",
+      "date": "2026-10-16",
+      "price": 1900,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4786520",
+      "genres": [
+        "RPG"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4786520/34a7efed1862d3652a7f76c7df5cf63c22dac7a2/capsule_231x87.jpg?t=1793197584",
+      "title": "WonderLang Arabic",
+      "date": "2026-10-16",
+      "price": 3150,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4771580",
+      "genres": [
+        "シミュレーション",
+        "ホラー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4771580/de3ba2707c1c4a1cff18067e4cf9981cc5b7e040/capsule_231x87.jpg?t=1792204505",
+      "title": "Five Nights with Maids",
+      "date": "2026-10-16",
+      "price": 990,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4729580",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "シミュレーション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4729580/adb81e89ee72a9a7e8a10c67a657fc4a8a75a47f/capsule_231x87.jpg?t=1794307309",
+      "title": "Wolf Island",
+      "date": "2026-10-16",
+      "price": 0,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4697950",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4697950/3213fb5ced5da7c694f5d56b2c14b51bf225268e/capsule_231x87.jpg?t=1793457384",
+      "title": "火と水：森の精霊たち",
+      "date": "2026-10-16",
+      "price": 424,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4581880",
+      "genres": [
+        "アクション",
+        "パズル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581880/fc49f25d8548978738158dfe19ba084e955c0f16/capsule_231x87_japanese.jpg?t=1794802543",
+      "title": "絶対遵守",
+      "date": "2026-10-16",
+      "price": 480,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4429440",
+      "genres": [
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4429440/c6184ec963d6333211ff43c6c4abff5c78148247/capsule_231x87.jpg?t=1792171156",
+      "title": "Void Core",
+      "date": "2026-10-16",
+      "price": 395,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4385780",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4385780/bc17590853b3ab4147b55271bfe66b801711b6ee/capsule_231x87.jpg?t=1794914078",
+      "title": "Maldhalla",
+      "date": "2026-10-16",
+      "price": 580,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4373030",
+      "genres": [
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4373030/248ab0b9df610195ab8ecf6b50a90cf5baaf5af0/capsule_231x87_japanese.jpg?t=1792134248",
+      "title": "100日",
+      "date": "2026-10-16",
+      "price": 395,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4350900",
+      "genres": [
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4350900/2290ff0aefee071d45da46eddae3794219100981/capsule_231x87.jpg?t=1792511272",
+      "title": "Just a Cat",
+      "date": "2026-10-16",
+      "price": 0,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4296120",
+      "genres": [
+        "シミュレーション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4296120/c1b1798e11dc774105326ef95e87822557ae4457/capsule_231x87.jpg?t=1792344467",
+      "title": "The Little Land",
+      "date": "2026-10-16",
+      "price": 1700,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4118330",
+      "genres": [
+        "カジュアル",
+        "パズル",
+        "インディー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4118330/6edb60e6e63bfd8f639589fb79105daf5ae6b8da/capsule_231x87.jpg?t=1792166150",
+      "title": "100 Moon Base Cats",
+      "date": "2026-10-16",
+      "price": 235,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4088850",
+      "genres": [
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4088850/72d99e53a8d378c54d58a015386de4982a71e934/capsule_231x87.jpg?t=1793196435",
+      "title": "A Game About Opening A Chest",
+      "date": "2026-10-16",
+      "price": 1050,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4071650",
+      "genres": [
+        "ホラー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4071650/496e0dcdffffd8c974925e3c5b77808a2385b4f5/capsule_231x87.jpg?t=1795626668",
+      "title": "Stream Train",
+      "date": "2026-10-16",
+      "price": 800,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "4064810",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4064810/391ad0850ce801a0f55e838e464d53ab24198cae/capsule_231x87.jpg?t=1793977892",
+      "title": "ウッドマン",
+      "date": "2026-10-16",
+      "price": 500,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "3983250",
+      "genres": [
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3983250/c1fc36db5d6fdd60baf7e17b557ca9d03ebb03df/capsule_231x87.jpg?t=1794328287",
+      "title": "Shadows of War 2",
+      "date": "2026-10-16",
+      "price": 905,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "3897080",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3897080/fc4d40ce58bd666af36dac2c920265820cdecac0/capsule_231x87.jpg?t=1795270827",
+      "title": "Dimenshot",
+      "date": "2026-10-16",
+      "price": 1147,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "3826670",
+      "genres": [
+        "アクション",
+        "シミュレーション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3826670/7f7154ac5d94310c1e493b6819f2ab63ad8aca6e/capsule_231x87.jpg?t=1793963780",
+      "title": "Flipping is Hard",
+      "date": "2026-10-16",
+      "price": 1900,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "3720580",
+      "genres": [
+        "アクション",
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3720580/8151bb557ddd9288df7b3cac758688c9c971b17d/capsule_231x87.jpg?t=1792231559",
+      "title": "Supermarket Guard Simulator",
+      "date": "2026-10-16",
+      "price": 1850,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "3695930",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3695930/1a348585cfaac976adb61dc1f5b9bd2b15812c62/capsule_231x87.jpg?t=1793115787",
+      "title": "ペンギン・コロニー",
+      "date": "2026-10-16",
+      "price": 1700,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "3592020",
+      "genres": [
+        "ホラー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3592020/edbe762a1d2fe10a2630700dc06d1e244448ca92/capsule_231x87.jpg?t=1792419942",
+      "title": "Sparky Rush: Purrils in Pawsville!",
+      "date": "2026-10-16",
+      "price": 1250,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "3327120",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3327120/5b647b77cac49ae228a5ad78292ae29c56b21252/capsule_231x87.jpg?t=1795681817",
+      "title": "Dreadline Express",
+      "date": "2026-10-16",
+      "price": 1600,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "3070450",
+      "genres": [
+        "アクション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3070450/80cc6d1ae9211d5d5c08be38bcec6b28ce347094/capsule_231x87_japanese.jpg?t=1792141227",
+      "title": "ナイトブラッドW：断罪の狼",
+      "date": "2026-10-16",
+      "price": 1499,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "2832280",
+      "genres": [],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2832280/f5851c151719f48b1476e6df2dba2471fdde55d9/capsule_231x87.jpg?t=1792176208",
+      "title": "Blightstone",
+      "date": "2026-10-16",
+      "price": 1800,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "2295060",
+      "genres": [
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2295060/c26b59351891cf00758c4ad4816a168e4eb0e9d2/capsule_231x87_japanese.jpg?t=1795529520",
+      "title": "Beyond These Stars ビヨンド・ジーズ・スターズ",
+      "date": "2026-10-16",
+      "price": 2905,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "2121510",
+      "genres": [
+        "アドベンチャー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2121510/03a5c65bccf278414a7111265b6b4b1b2fac564c/capsule_231x87.jpg?t=1795318091",
+      "title": "Tenebris Somnia",
+      "date": "2026-10-16",
+      "price": 2550,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "2085660",
+      "genres": [
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2085660/3af43d2815b5d3c693b0d7db212b5780bf947012/capsule_231x87.jpg?t=1792166456",
+      "title": "Devices Tycoon",
+      "date": "2026-10-16",
+      "price": 1999,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "2069070",
+      "genres": [
+        "シミュレーション"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2069070/9b2df112b4ee41ca75c9a84988941984169c4a0d/capsule_231x87_alt_assets_0.jpg?t=1794568569",
+      "title": "Hay! One Billion!",
+      "date": "2026-10-16",
+      "price": 790,
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "5130850",
+      "genres": [
+        "ストラテジー",
+        "カジュアル"
+      ],
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5130850/d8b444ea2f7204a5591f38f4e615c3c963beb4e8/capsule_231x87.jpg?t=1792503250",
+      "title": "一锅成名",
+      "date": "2026-10-15",
+      "price": 1050,
       "checked": "2026-11-27"
     },
     {
